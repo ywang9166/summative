@@ -1,6 +1,6 @@
-# Summative
+# Summative Assignment Overview
 
-This report conducts a comprehensive data analytics and modelling exercise using the Lending Club loan dataset to investigate factors influencing interest rate determination. The report is divided into four parts.
+This python code was for a data analytics and modelling assignment using the Lending Club loan dataset to investigate factors influencing interest rate determination. The report is divided into four parts.
 
 Part A
 
